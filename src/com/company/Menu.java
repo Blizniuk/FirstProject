@@ -8,6 +8,7 @@ public class Menu {
 
     private static void showMenu() {
         System.out.println("Привет! Хочешь вкусную шаурму?" + "\n" + "У нас ты можешь:" + "\n");
+
         getMenu();
     }
 
