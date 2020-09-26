@@ -14,6 +14,7 @@ public class Menu {
 
     private static void getMenu() {
         System.out.println("- Заказать вкуснейшую шаурму");
+        System.out.println("- Заказать вкуснейшую шаурму");
         System.out.println("- Оформить доставку");
         System.out.println("- Оплатить заказ на сайте");
         System.out.println("- Заказать звонок");
